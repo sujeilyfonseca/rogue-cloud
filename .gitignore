@@ -1,1 +1,18 @@
-target/
+#=========================================================#
+#                       Rogue Cloud                       #
+#  Gitignore file to use with the Rogue Cloud repository  #
+#=========================================================#
+
+# Generated Files
+.*.swp
+.DS_Store
+.project
+.classpath
+.metadata
+.factorypath
+
+# Directories
+/bin/
+/target/
+/.settings/
+/.apt_generated/
